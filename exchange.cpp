@@ -12,12 +12,6 @@ int main()
         cin>>a[i];
     }
 
-    int m=a[0];
-    for(int i=0;i<4;i++){
-        m=min(a[i],m);
-    }
-    cout<<"最小数为："<<m<<endl;
-
     int minn=0;
     for(int i=0;i<4;i++){
         if(a[i]<a[minn]){
