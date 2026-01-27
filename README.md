@@ -13,4 +13,4 @@
   5. identification armor plate
 
 #### SUGGESTION
-- These codes may not perfect,but it is easy for the news to learn.As for the codes,learning its process flow is more important.If you want to see the result of these codes,please change image path so that these code can be ran. 
+- These codes may not perfect,but it is easy for the new people to learn.As for the codes,learning its process flow is more important.
